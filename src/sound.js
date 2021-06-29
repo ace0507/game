@@ -1,3 +1,4 @@
+
 'use strict';
 
 const carrotSound = new Audio('./sound/carrot_pull.mp3');
